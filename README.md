@@ -26,6 +26,7 @@ Linuxの基本コマンドを、Google Colabクラウド環境で実習する。
  
 ## NGS1
 次世代シーケンサー（Next Generation Sequencer：NGS）配列解析の基礎を学ぶ。NGS装置の種類と特徴、配列の品質管理、Sequence Read Archive、ゲノム配列変異注釈、微生物叢解析を扱う。実習ではGoogle Colabに専用ソフトをダウンロードしNGS配列のQCや、一塩基多型の機能注釈を行う。
+- 今年は動画時間が長くなってしまった為、遺伝研スーパーコンピュータへの登録方法の解説部分を抜き出してClassroomに掲載しました(スライド23枚と動画)。
 
 <kbd><img src="EK_20_NGS1.png" border="1" align="middle" width="480" /></kbd>
  
