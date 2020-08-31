@@ -2,7 +2,7 @@
 e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Google Colabのプログラム実習教材、を提供しています。
 2020.4.1から2年間有効です。
 
-- **[1] Linux実習** [[目次](#LINUX)]
+- **[1] Linux入門** [[目次](#LINUX)], **Linux入門補講** 
 - **[2] NGS解析入門　第1回**  [[目次](#NGS1)]
 - **[3] NGS解析入門　第2回**  [[目次](#NGS2)]
 - **[4] 深層学習の基礎技術　第1回** [[目次](#DNN1)]
@@ -20,6 +20,8 @@ Linuxの基本コマンドを、Google Colabクラウド環境で実習する。
 
 <kbd><img src="EK_20_LINUX.png" border="1" align="middle" width="480" /></kbd>
  
+- 今年はZoomを使い補講を行いました(2020/6/12)。当日の補講資料は<a href="./EK_Linux入門補講_200612.pdf">こちら</a>です。
+
 ----
  
 ## NGS1
