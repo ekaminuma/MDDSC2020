@@ -1,6 +1,6 @@
 ## MDDSC([医療・創薬データサイエンスコンソーシアム](http://md-dsc.com/))の2020年度教材
 e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Google Colabのプログラム実習教材、を提供しています。
-2020.4.1から2年間有効です。
+(資料を公開しました: 2023/9/19)。
 
 - **[1] Linux入門** [[目次](#LINUX)], **Linux入門補講**[[資料](https://github.com/ekaminuma/MDDSC2020/blob/master/EK_Linux入門補講_200612.pdf)] 
 - **[2] NGS解析入門　第1回**  [[目次](#NGS1)]
